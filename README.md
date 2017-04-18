@@ -1,4 +1,7 @@
-# api documentation for  [play-sound (v1.1.1)](https://github.com/shime/play-sound)  [![npm package](https://img.shields.io/npm/v/npmdoc-play-sound.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-play-sound) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-play-sound.svg)](https://travis-ci.org/npmdoc/node-npmdoc-play-sound)
+# npmdoc-play-sound
+
+#### api documentation for  [play-sound (v1.1.1)](https://github.com/shime/play-sound)  [![npm package](https://img.shields.io/npm/v/npmdoc-play-sound.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-play-sound) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-play-sound.svg)](https://travis-ci.org/npmdoc/node-npmdoc-play-sound)
+
 #### Play audio files by shelling out to available audio tool.
 
 [![NPM](https://nodei.co/npm/play-sound.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/play-sound)
