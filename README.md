@@ -1,6 +1,6 @@
 # npmdoc-play-sound
 
-#### api documentation for  [play-sound (v1.1.1)](https://github.com/shime/play-sound)  [![npm package](https://img.shields.io/npm/v/npmdoc-play-sound.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-play-sound) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-play-sound.svg)](https://travis-ci.org/npmdoc/node-npmdoc-play-sound)
+#### basic api documentation for  [play-sound (v1.1.1)](https://github.com/shime/play-sound)  [![npm package](https://img.shields.io/npm/v/npmdoc-play-sound.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-play-sound) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-play-sound.svg)](https://travis-ci.org/npmdoc/node-npmdoc-play-sound)
 
 #### Play audio files by shelling out to available audio tool.
 
@@ -72,7 +72,8 @@
     "scripts": {
         "test": "export PATH=$PATH:./shims && node_modules/.bin/mocha tests.js"
     },
-    "version": "1.1.1"
+    "version": "1.1.1",
+    "bin": {}
 }
 ```
 
